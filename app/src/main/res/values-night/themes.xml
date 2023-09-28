@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Challenge2SYNRGY.Dark" parent="Base.Theme.Challenge2SYNRGY">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/darkPrimaryColor</item>
+        <item name="colorPrimaryVariant">@color/darkPrimaryVariantColor</item>
+        <item name="colorSecondary">@color/darkSecondaryColor</item>
+        <item name="colorSecondaryVariant">@color/darkSecondaryVariantColor</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:colorBackground">@color/darkBackground</item>
+        <item name="android:colorForeground">@color/darkForeground</item>
+    </style>
+
+    <style name="Theme.Challenge2SYNRGY.Dark" parent="Base.Theme.Challenge2SYNRGY.Dark" />
+</resources>
